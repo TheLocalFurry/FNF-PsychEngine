@@ -1,0 +1,23 @@
+{
+	"songs": [
+		[
+			"silly-billy",
+			"YOURSELF",
+			[
+				246,
+				182,
+				4
+			]
+		],
+		[
+	"storyName": "YOURSELF",
+	"weekName": "silly-billy",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "week6",
+	"startUnlocked": true
+}
